@@ -20,6 +20,22 @@ Texto retriado do README original da proposta do projeto da Trybe!
 
 # Rodando o código
 
+Para utilizar ou testar este projeto, siga os passos abaixo:
+
+Clone o repositório para o seu ambiente local:
+
+```bash
+git clone git@github.com:PVPrado/Projeto-trybers-and-dragons.git
+```
+
+Navegue até o diretório do projeto:
+
+```bash
+cd Projeto-trybers-and-dragons
+```
+
+# Siga as instruções abaixo para rodar o projeto com Docker ou localmente
+
 </br>
 <details>
   <summary><strong>🐋 Rodando no Docker ou Localmente</strong></summary><br />
