@@ -1,10 +1,10 @@
-# Projeto Trybers and dragons
+# 🐉 Projeto Trybers and dragons
 
 Este projeto tem como objetivo aplicar os princípios da arquitetura **SOLID** e os conceitos de **Programação Orientada a Objetos** (**POO**) em uma estrutura de jogos de interpretação de papéis, mais comumente conhecidos como RPGs (Role Playing Games).
 
 Foram desenvolvidas classes e interfaces para cada contexto, levando em consideração os atributos de cada raça e personagem, bem como a lógica das ações que cada um pode realizar em campo de batalha por meio de seus métodos.
 
-# Contexto
+# ⚔️ Contexto
 
 No universo de Trybers and Dragons - T&D, quase todos os seres que andam por essas terras pertencem a uma raça definida.
 
@@ -18,7 +18,7 @@ Now, follow the blind the dungeon master!
 
 Texto retriado do README original da proposta do projeto da Trybe!
 
-# Rodando o código
+# 🛠️ Rodando o código
 
 Para utilizar ou testar este projeto, siga os passos abaixo:
 
@@ -34,7 +34,7 @@ Navegue até o diretório do projeto:
 cd Projeto-trybers-and-dragons
 ```
 
-# Siga as instruções abaixo para rodar o projeto com Docker ou localmente
+# 🛠️ Siga as instruções abaixo para rodar o projeto com Docker ou localmente
 
 </br>
 <details>
